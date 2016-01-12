@@ -1,8 +1,0 @@
----
-layout: default
-img: fishOn.png
-category: Features
-title: Fish On!
-description: As soon as you catch a fish, grab your phone and open Fishie to take all your photos!
----
-  As soon as you catch a fish, grab your phone and open Fishie to take all your photos! Use the volume buttons to snap a photo and switch between front and back cameras. Take as many photos as you want - they're all saved under one catch so it's easy to get to them later.

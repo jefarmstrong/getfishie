@@ -1,8 +1,0 @@
----
-layout: default
-img: salemWargoPond.png
-category: Features
-title: Relive your glory
-description: 
----
-  All catches are saved and viewable by Date, Location or on a Map! 
