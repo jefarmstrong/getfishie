@@ -1,6 +1,6 @@
 ---
 layout: default
-img: mapView.png
+img: salemWargoPond.png
 category: Features
 title: Relive your glory
 description: 

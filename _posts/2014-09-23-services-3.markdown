@@ -1,6 +1,6 @@
 ---
 layout: default
-img: catchView.png
+img: salemDetails.png
 category: Features
 title: Detailed overlays
 description: |
