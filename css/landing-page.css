@@ -104,6 +104,10 @@ ul.lead li {
     background-color: #95A5A6;
     color:#fefefe;
 }
+.screenshot {
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .section-heading {
     margin-bottom: 30px;

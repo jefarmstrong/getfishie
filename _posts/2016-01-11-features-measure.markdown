@@ -1,6 +1,6 @@
 ---
 layout: default
-img: midnightMeasure.png
+img: fishMeasure.png
 category: Features
 title: Measure your fish
 description: 

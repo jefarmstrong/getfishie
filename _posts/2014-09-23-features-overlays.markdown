@@ -1,6 +1,6 @@
 ---
 layout: default
-img: salemDetails.png
+img: fishDetails.png
 category: Features
 title: Detailed overlays
 description: |

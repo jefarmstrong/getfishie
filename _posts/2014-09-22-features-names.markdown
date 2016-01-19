@@ -1,6 +1,6 @@
 ---
 layout: default
-img: salemWargoPond.png
+img: fishName.png
 category: Features
 title: Every fish gets a name
 description: 

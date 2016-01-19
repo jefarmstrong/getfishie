@@ -1,6 +1,6 @@
 ---
 layout: default
-img: logLocation.png
+img: fishLog.png
 category: Features
 title: See all your catches on one place
 description: 
