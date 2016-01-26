@@ -2,7 +2,10 @@
 layout: default
 img: fishDetails.png
 category: Features
-title: Detailed overlays
-description: |
+title: Track detailed info to improve your fishing
+description: 
+bullets:
+    - Satellite view of spot where fish was caught
+    - Detailed weather info from time of catch
+    - Save notes about anything you want
 ---
-Each fish you catch is saved with a satellite image of the spot you were, plus the weather at the time of the catch.

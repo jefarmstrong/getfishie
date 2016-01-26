@@ -2,8 +2,13 @@
 layout: default
 img: fishName.png
 category: Features
-title: Every fish gets a name
+title: Don't just catch a fish - catch 'Kilroy', or 'Blinky'
 description: 
+bullets:
+    - Over 500 fish names
+    - See if you can catch them all
 ---
-  When I would tell my wife about a fish I had caught she'd ask, "What was it's name?"<br/> 
-  So, I added names to Fishie. There are over 500 names that Fishe will generate. See if you can catch them all. It makes remembering and sharing your catches so much more fun! 
+  My wife would ask me when I caught a fish,<br/>
+  "What was it's name?" And I didn't know, so I added automatic fish naming to Fishie.<br/>
+  It makes remembering and sharing your catches so much more fun!
+  <br/>

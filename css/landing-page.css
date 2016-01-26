@@ -18,7 +18,7 @@ h4,
 h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .lead {
@@ -91,19 +91,32 @@ ul.lead li {
     letter-spacing: 2px;
 }
 
+/*6C7A89;*/
 .content-section-a {
     padding: 50px 0;
-    background-color: #6C7A89;
+    background-color: #5E8B16; 
     color:#fefefe;
 }
 
+/*#95A5A6;*/
 .content-section-b {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
-    background-color: #95A5A6;
-    color:#fefefe;
+    background-color: #F1E2BE; 
+    color:#000;
 }
+.shadow {
+    background-color: #000;
+    height: 2px;
+    width: 100%;
+    bottom: 0px;
+    z-index: 5;
+    box-shadow: 0px 2px 4px #000000;
+    -moz-box-shadow: 0px 2px 4px #000000;
+    -webkit-box-shadow: 0px 2px 4px #000000;
+}
+
 .screenshot {
     margin-left: auto;
     margin-right: auto;

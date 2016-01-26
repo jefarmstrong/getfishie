@@ -2,7 +2,7 @@
 layout: default
 img: fishShare.png
 category: Features
-title: Share what ever you want
+title: Share everywhere!
 description: 
 bullets:
 - Share as much or as little as you want

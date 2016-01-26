@@ -2,12 +2,12 @@
 layout: default
 img: fishOn.png
 category: Features
-title: Fish On!
+title: Fishie is the best camera for fishing
 description: 
 bullets:
-- Control the camera with the volume buttons
+- Take a picture with the volume up button
+- Switch front/back cameras with the volume down button
 - All photos are saved together under a single catch
+- Share your photos to Facebook, Instagram, Twitter, and many more
 ---
-  Catch a fish, take a Fishie or two then release your fish.<br/>
-  Now you can share a photo to your favorite social media site, 
   
