@@ -2,7 +2,7 @@
 layout: default
 img: fishLog.png
 category: Features
-title: See all your catches on one place
+title: See all your catches in one place
 description: 
 bullets:
 - It's all your data

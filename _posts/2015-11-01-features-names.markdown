@@ -1,0 +1,15 @@
+---
+layout: default
+img: fishName.png
+category: Features
+title: Don't just catch any old fish...<br/>catch 'Kilroy', or 'Blinky'
+description: 
+bullets:
+    - Over 500 fish names
+    - See if you can catch them all
+---
+  When I caught a fish my wife would ask me,<br/>
+  "What was it's name?" I didn't have an answer, so I added automatic fish naming to Fishie.<br/>
+  <br/>
+  It makes remembering and sharing your catches so much more fun!
+  <br/>
