@@ -5,9 +5,9 @@ category: Features
 title: Fishie is the best camera for fishing
 description: 
 bullets:
-- Take a picture with the volume up button
-- Switch front/back cameras with the volume down button
-- All photos are saved together under a single catch
+- Improve your fishing by tracking your catches
+- Simple camera controls make it easy to take pics with a fish
+- Easy access to your fish photos
 - Share your photos to Facebook, Instagram, Twitter, and many more
 ---
   

@@ -5,7 +5,7 @@ category: Features
 title: Don't just catch any old fish...<br/>catch 'Kilroy', or 'Blinky'
 description: 
 bullets:
-    - Over 500 fish names
+    - 1000 fish names included
     - See if you can catch them all
 ---
   When I caught a fish my wife would ask me,<br/>
