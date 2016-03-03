@@ -9,7 +9,10 @@ bullets:
     - See if you can catch them all
 ---
   When I caught a fish my wife would ask me,<br/>
-  "What was it's name?" I didn't have an answer, so I added automatic fish naming to Fishie.<br/>
+  "What was it's name?" 
+  <br/>
+  I didn't have an answer, so I added automatic fish naming to Fishie and now I can tell her "I caught ol' Blue."
+  <br/>
   <br/>
   It makes remembering and sharing your catches so much more fun!
   <br/>
