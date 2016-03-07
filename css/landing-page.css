@@ -191,6 +191,10 @@ ul.lead li {
     margin-top:20px;
     margin-bottom: 10px;
 }
+.tips {
+    background-color: transparent; 
+    color:white;
+}
 
 footer {
     padding: 50px 0;
