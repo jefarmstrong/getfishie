@@ -180,6 +180,11 @@ ul.lead li {
     }
 }
 
+.help {
+    background-color: #5E8B16; 
+    color:#fefefe;
+}
+
 footer {
     padding: 50px 0;
     background-color: #f8f8f8;
