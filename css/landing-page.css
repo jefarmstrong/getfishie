@@ -181,8 +181,12 @@ ul.lead li {
 }
 
 .help {
+    font-size:16px;
     background-color: #5E8B16; 
     color:#fefefe;
+}
+.help h1 {
+    margin-bottom: 50px;
 }
 .help ul li {
     margin-bottom: 10px;
@@ -192,8 +196,13 @@ ul.lead li {
     margin-bottom: 10px;
 }
 .tips {
-    background-color: transparent; 
+    /*background-color: transparent; */
+    font-size:16px;
+    background-color: black;
     color:white;
+}
+.tips h1 {
+    margin-bottom: 50px;
 }
 
 footer {
