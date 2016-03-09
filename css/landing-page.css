@@ -196,15 +196,17 @@ ul.lead li {
     margin-bottom: 10px;
 }
 .tips {
-    /*background-color: transparent; */
+    /*background-color: black;*/
+    background-color: transparent; 
     font-size:16px;
-    background-color: black;
     color:white;
 }
 .tips h1 {
     margin-bottom: 50px;
 }
-
+.ios-footer {
+    margin: 50px 0;
+}
 footer {
     padding: 50px 0;
     background-color: #f8f8f8;
