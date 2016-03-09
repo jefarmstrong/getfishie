@@ -188,6 +188,11 @@ ul.lead li {
 .help h1 {
     margin-bottom: 50px;
 }
+.tips a, .help a {
+    color:white;
+    font-weight: 700;
+    text-decoration: underline;
+}
 .help ul li {
     margin-bottom: 10px;
 }
