@@ -1,8 +1,9 @@
 ---
 layout: default
-img: fishOn.png
+img: fishOn-mike.png
 category: Features
 title: Catch - Fishie - Release
+playAudio: fishon
 description: 
 bullets:
 - Improve your fishing by tracking your catches
