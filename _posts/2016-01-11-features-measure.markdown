@@ -2,7 +2,7 @@
 layout: default
 img: fishMeasure.png
 category: Features
-title: Built-in fish measure!<sup>Pro Version</sup>
+title: Built-in fish measure!<sup><small>Pro Version</small></sup>
 description: 
 bullets:
 - Use one of the built in known objects

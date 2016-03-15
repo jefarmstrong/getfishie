@@ -6,7 +6,7 @@ title: Don't just catch any old fish...<br/>catch 'Kilroy', or 'Blinky'
 description: 
 bullets:
     - 1000 fish names included
-    - Extra fun name packs and fish numbering in Pro Version
+    - Extra fun name packs and fish numbering&nbsp;<sup><small>Pro Version</small></sup>
     - See if you can catch them all
 ---
   When I used to call my wife and tell I got a nice one she would ask me,<br/>
