@@ -41,8 +41,8 @@ ul.lead li {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .intro-message > h1 {
@@ -97,6 +97,10 @@ ul.lead li {
     padding: 50px 0;
     background-color: #5E8B16; 
     color:#fefefe;
+}
+.content-section-a a {
+    color: #F1E2BE;
+    text-decoration: underline;
 }
 
 /*#95A5A6;*/

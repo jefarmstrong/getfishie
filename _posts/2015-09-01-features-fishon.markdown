@@ -7,7 +7,7 @@ playAudio: fishon
 description: 
 bullets:
 - Improve your fishing by tracking your catches
-- Simple camera controls make it easy to take pics while holding a fish
+- Hear <a href="http://youtube.com/c/1rod1reelfishing">@1rod1reelfishing</a> of YouTube fame everytime you catch a fish!
 - All your fish photos organized, documented and in one place
 - Share your photos to Facebook, Instagram, Twitter, and many more
 ---
