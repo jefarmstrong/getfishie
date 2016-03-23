@@ -96,7 +96,7 @@ ul.lead li {
     width: 200px;
     position:absolute;
     top: 50px;
-    right: 50px;
+    right: 2%;
 }
 
 
@@ -189,6 +189,10 @@ ul.lead li {
 
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
+    }
+
+    #fishie-tee {
+        display: none;
     }
 }
 
