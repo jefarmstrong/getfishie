@@ -9,7 +9,7 @@ bullets:
     - Extra fun name packs and fish numbering&nbsp;<sup><small>Pro Version</small></sup>
     - See if you can catch them all
 ---
-  When I used to call my wife and tell I got a nice one she would ask me,<br/>
+  When I used to call my wife and tell her I caught a nice one, she would ask me,
   "What it's name?" 
   <br/>
   I didn't have an answer, so I added automatic fish naming to Fishie and now I can tell her "I caught ol' Blue."
