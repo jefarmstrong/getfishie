@@ -1,0 +1,13 @@
+<script>
+    function handleRedirect() {
+        var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+        if (userAgent.match(/iPad/i) || userAgent.match(/iPhone/i) || userAgent.match(/iPod/i)) {
+            window.location.href = "https://itunes.apple.com/us/app/fishie-the-camera-for-fishing/id1071497002?mt=8";
+        }
+        else if (userAgent.match(/Android/i)) {
+            // ASK
+        }
+    }
+    handleRedirect();
+</script>
