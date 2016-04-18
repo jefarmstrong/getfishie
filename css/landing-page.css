@@ -221,6 +221,12 @@ ul.lead li {
     margin-top:20px;
     margin-bottom: 10px;
 }
+.help-section p {
+    margin-top: 10px;
+}
+.help-section .img-responsive {
+    margin-top: 20px;
+}
 .tips {
     /*background-color: black;*/
     background-color: transparent; 
