@@ -1,7 +1,7 @@
 
-<section id="services">
+<section id="features">
 <!-- Page Content -->
-{% for post in site.posts reversed %}
+{% for feature in site.data.features %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
@@ -12,19 +12,27 @@
                 <div class="xx-col-lg-5 col-sm-6">
                     <!-- <hr class="section-heading-spacer"> -->
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <h1 class="">{{ feature.title }}</h1>
+                    <h3 class="subtitle">{{ feature.subtitle }}</h3>
+                    <hr/>
+                    {% if feature.text %}
+                    <p class="feature-text">
+                        {{ feature.text }}
+                    </p>
+                    {% endif %}
+                    {% if feature.bullets %}
                     <ul class="lead">
-                    {% for item in post.bullets %}
+                    {% for item in feature.bullets %}
                         <li> {{ item }}
                     {% endfor %}
                     </ul>
+                    {% endif %}
                 </div>
                 <div class="col-lg-6 xx-col-lg-offset-2 col-sm-6">
-                    {% if post.playAudio %}
+                    {% if feature.playAudio %}
                     <button style="background:transparent;border:0;outline:0;" onclick="document.getElementById('fishon').play()"><img class="img-responsive screenshot" src="img/features/{{ post.img }}" alt=""></button>
                     {% else %}
-                    <img class="img-responsive screenshot" src="img/features/{{ post.img }}" alt="">
+                    <img class="img-responsive screenshot" src="img/features/{{ feature.img }}" alt="">
                     {% endif %}
                 </div>
             </div>
@@ -44,16 +52,24 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <!-- <hr class="section-heading-spacer"> -->
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
+                    <h1 class="">{{ feature.title }}</h1>
+                    <h3 class="subtitle">{{ feature.subtitle }}</h3>
+                    <hr/>
+                    {% if feature.text %}
+                    <p class="feature-text">
+                        {{ feature.text }}
+                    </p>
+                    {% endif %}
+                    {% if feature.bullets %}
                     <ul class="lead">
-                    {% for item in post.bullets %}
+                    {% for item in feature.bullets %}
                         <li> {{ item }}
                     {% endfor %}
-                    </ul>                    
+                    </ul>
+                    {% endif %}
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive screenshot" src="img/features/{{ post.img }}" alt="">
+                  <img class="img-responsive screenshot" src="img/features/{{ feature.img }}" alt="">
                 </div>
             </div>
 

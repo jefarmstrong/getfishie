@@ -2,7 +2,7 @@
 layout: default
 img: fishNames-proVer.png
 category: Features
-title: Don't just catch any old fish...<br/>catch 'Kilroy', or 'Blinky'
+title: Every fish gets a Name
 description: 
 bullets:
     - 1000 fish names included

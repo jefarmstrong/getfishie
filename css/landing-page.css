@@ -8,6 +8,7 @@ body,
 html {
     width: 100%;
     height: 100%;
+    font: 16px "Open Sans", sans-serif;
 }
 
 body,
@@ -17,40 +18,53 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 500;
+    /*font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-weight: 300;
+    margin:0;
 }
 
 .lead {
     font-size: 18px;
-    font-weight: 400;
+    /*font-weight: 400;*/
 }
 ul.lead li {
-    margin-bottom: 20px;
+    margin: 20px 0;
 }
 
+hr {
+    outline: none;
+    border: 0;
+    height: 1px;
+    width: 100%;
+    max-width: 75px;
+    margin: 15px auto 15px 0;
+    background: #d6d7d6;
+}
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/intro-bg-2a.jpg) no-repeat bottom center;
     /*background: url(../img/samantha_gay_sunset_2.jpg) no-repeat center center;*/
     background-size: cover;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
-.intro-message > h1 {
+.intro-message  h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 5em;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+    /*color:#dedede;*/
+    /*font-size: 5em;*/
 }
-
+.intro-message  h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
 .intro-divider {
     width: 400px;
     border-top: 1px solid #f8f8f8;
@@ -99,9 +113,19 @@ ul.lead li {
     right: 2%;
 }
 
+#features {
+    
+}
+.subtitle {
+    color:#5E8B16;
+}
+.features-text {
+    font-size: 16px;
+}
+
 
 /*6C7A89;*/
-.content-section-a {
+/*.content-section-a {
     padding: 50px 0;
     background-color: #5E8B16; 
     color:#fefefe;
@@ -110,12 +134,12 @@ ul.lead li {
     color: #F1E2BE;
     text-decoration: underline;
 }
-
+*/
 /*#95A5A6;*/
-.content-section-b {
-    padding: 50px 0;
-    border-top: 1px solid #e7e7e7;
-    border-bottom: 1px solid #e7e7e7;
+.content-section-b, .content-section-a {
+    padding: 20px 0 50px 0;
+    /*border-top: 1px solid #e7e7e7;*/
+    /*border-bottom: 1px solid #e7e7e7;*/
     background-color: #F1E2BE; 
     color:#000;
 }
@@ -137,6 +161,7 @@ ul.lead li {
 
 .section-heading {
     margin-bottom: 30px;
+
 }
 
 .section-heading-spacer {
