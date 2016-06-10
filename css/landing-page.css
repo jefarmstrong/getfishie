@@ -65,6 +65,9 @@ hr {
 .intro-message  h3 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
+.intro-social-buttons {
+    margin: 20px 0;
+}
 .intro-divider {
     width: 400px;
     border-top: 1px solid #f8f8f8;
@@ -86,7 +89,7 @@ hr {
 
     ul.intro-social-buttons > li {
         display: block;
-        margin-bottom: 20px;
+        margin: 20px 0;
         padding: 0;
     }
 
