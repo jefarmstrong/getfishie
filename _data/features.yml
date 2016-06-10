@@ -1,0 +1,21 @@
+- title: Introducing Fishie
+  subtitle: The best app for fishing
+  img: fishOn-mike.png
+  text: Use Fishie everytime you catch a fish, instead of the regular camera, and start enjoying all the advantages. Fishie keeps a log of every catch with all of the following data -
+  bullets:
+    - A Satellite view of the catch spot
+    - General weather condition, temperature, moon phase, wind speed, barometric pressure and more at the time of the catch
+    - Freeform text section to note anything else you want to remember
+
+- title: Inovative Measuring System
+  subtitle: "\"Measure it Later\""
+  img: fishMeasure.png
+  text: Take one of the photos with a known object in the frame and use Fishie to measure your fish when you get home.
+
+- title: Every fish gets a Name
+  subtitle: Adds a whole new level of fun
+  img: fishNames-proVer.png
+  text: Instead of just catching any old fish - now you'll be catching "Blue" or "Kilroy", or one of over 1000 names. Even if it's not the lunker you were hoping for, it's fun to see what name the fish gets before you send it back on it's way.
+
+- title: foo 
+  img: fishLog-details.png
