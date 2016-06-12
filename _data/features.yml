@@ -1,6 +1,7 @@
 - title: Introducing Fishie
   subtitle: The best app for fishing
   img: fishOn-mike.png
+  playAudio: yes
   text: Use Fishie everytime you catch a fish, instead of the regular camera, and start enjoying all the advantages. Fishie keeps a log of every catch with all of the following data -
   bullets:
     - A Satellite view of the catch spot

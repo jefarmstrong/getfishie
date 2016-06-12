@@ -30,7 +30,10 @@
                 </div>
                 <div class="col-lg-6 xx-col-lg-offset-2 col-sm-6">
                     {% if feature.playAudio %}
-                    <button style="background:transparent;border:0;outline:0;" onclick="document.getElementById('fishon').play()"><img class="img-responsive screenshot" src="img/features/{{ post.img }}" alt=""></button>
+                    foobar
+                    <button style="background:transparent;border:0;outline:0;" onclick="document.getElementById('fishon').play()">
+                        <img class="img-responsive screenshot" src="img/features/{{ feature.img }}" alt="">
+                    </button>
                     {% else %}
                     <img class="img-responsive screenshot" src="img/features/{{ feature.img }}" alt="">
                     {% endif %}
@@ -69,7 +72,14 @@
                     {% endif %}
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive screenshot" src="img/features/{{ feature.img }}" alt="">
+                    {% if feature.playAudio %}
+                    foobar
+                    <button style="background:transparent;border:0;outline:0;" onclick="document.getElementById('fishon').play()">
+                        <img class="img-responsive screenshot" src="img/features/{{ feature.img }}" alt="">
+                    </button>
+                    {% else %}
+                    <img class="img-responsive screenshot" src="img/features/{{ feature.img }}" alt="">
+                    {% endif %}
                 </div>
             </div>
 
