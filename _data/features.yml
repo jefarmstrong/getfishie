@@ -17,5 +17,7 @@
   img: fishNames-proVer.png
   text: Instead of just catching any old fish - now you'll be catching "Blue" or "Kilroy", or one of over 1000 names. Even if it's not the lunker you were hoping for, it's fun to see what name the fish gets before you send it back on it's way.
 
-- title: foo 
-  img: fishLog-details.png
+- title: Tons of Details
+  subtitle: 
+  img: fishDetails-map.png
+  text: View the details of every catch, see them on a map, share as much or as little as you want to ANY social network you choose.
